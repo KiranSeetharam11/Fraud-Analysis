@@ -16,7 +16,8 @@ The dataset consists of 2 Million transactions with around 5000 as fraudulent.
 Basic Data Cleaning is taken forward to avoid columns that have no correlation with the final prediction model.
 
 A data dictionary file is added to give definition to every column heading.
-The dataset can be found in the follwing link - [Dataset](https://drive.google.com/file/d/1RFDYVS5KvdejFqk_IAit0xMLMhKIVYoT/view?usp=sharing)
+
+The dataset can be found in the following link - [Dataset](https://drive.google.com/file/d/1RFDYVS5KvdejFqk_IAit0xMLMhKIVYoT/view?usp=sharing)
 
 ## Run Locally
 
