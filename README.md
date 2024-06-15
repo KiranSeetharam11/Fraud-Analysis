@@ -31,9 +31,7 @@ To run this project locally, ensure you have the following libraries installed:
   pip install seaborn
 ```
     
-## Structure of the project
-
-This project is used by the following companies:
+## Structure of the projet
 
 ### Data Cleaning
 - Check and handle Null values
